@@ -15,6 +15,11 @@ Papers and books organized by topic. Naming convention: `YYYY-author-short-topic
 - [2025-hafner-dreamer4-scalable-world-models.pdf](2025-hafner-dreamer4-scalable-world-models.pdf)
   - Dreamer4: scalable world models, first to obtain Minecraft diamonds purely from offline data
 
+## Computer Vision
+
+- [2026-wang-vit5-vision-transformers.pdf](2026-wang-vit5-vision-transformers.pdf)
+  - ViT-5: next-gen Vision Transformer modernizing ViT with RoPE, RMSNorm, QK-Norm, LayerScale, and register tokens
+
 ## Transformer Architectures & Attention
 
 - [2024-dao-gu-mamba2-state-space-duality.pdf](2024-dao-gu-mamba2-state-space-duality.pdf)
