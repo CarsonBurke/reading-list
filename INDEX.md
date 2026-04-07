@@ -22,6 +22,8 @@ Papers and books organized by topic. Naming convention: `YYYY-author-short-topic
 
 ## Transformer Architectures & Attention
 
+- [2023-gu-mamba-selective-state-spaces.pdf](2023-gu-mamba-selective-state-spaces.pdf)
+  - Mamba: linear-time sequence modeling with selective state spaces, outperforming Transformers on language, audio, and genomics
 - [2024-dao-gu-mamba2-state-space-duality.pdf](2024-dao-gu-mamba2-state-space-duality.pdf)
   - Mamba-2: unifying SSMs and attention via structured state space duality for 2-8x faster sequence modeling
 - [2025-kimi-linear-delta-attention.pdf](2025-kimi-linear-delta-attention.pdf)
