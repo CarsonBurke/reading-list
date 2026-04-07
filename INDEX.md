@@ -55,6 +55,8 @@ Papers and books organized by topic. Naming convention: `YYYY-author-short-topic
 
 ## Finance & Portfolio Management
 
+- [2022-niu-metatrader-portfolio-rl.pdf](2022-niu-metatrader-portfolio-rl.pdf)
+  - MetaTrader: two-stage RL integrating diverse expert policies via meta-policy for portfolio optimization (CIKM 2022)
 - [2022-yang-dirichlet-portfolio-rl.pdf](2022-yang-dirichlet-portfolio-rl.pdf)
   - Off-policy RL with Dirichlet distribution for generating multiple risk-adjusted portfolios
 - [2025-liu-dynamic-hedging-50etf-ppo.pdf](2025-liu-dynamic-hedging-50etf-ppo.pdf)
