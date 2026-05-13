@@ -12,6 +12,8 @@ Papers and books organized by topic. Naming convention: `YYYY-author-short-topic
   - Adversarial policies that attack deep RL agents via natural observations in multi-agent environments (ICLR 2020)
 - [2024-hafner-dreamerv3-world-models.pdf](2024-hafner-dreamerv3-world-models.pdf)
   - DreamerV3: general world-model RL agent mastering 150+ tasks including Minecraft diamond collection
+- [2025-farebrother-temporal-difference-flows.pdf](2025-farebrother-temporal-difference-flows.pdf)
+  - Temporal Difference Flows (TD-Flow): long-horizon Geometric Horizon Models via Bellman equation on probability paths and flow matching (Meta FAIR)
 - [2025-hafner-dreamer4-scalable-world-models.pdf](2025-hafner-dreamer4-scalable-world-models.pdf)
   - Dreamer4: scalable world models, first to obtain Minecraft diamonds purely from offline data
 
@@ -19,6 +21,11 @@ Papers and books organized by topic. Naming convention: `YYYY-author-short-topic
 
 - [2026-wang-vit5-vision-transformers.pdf](2026-wang-vit5-vision-transformers.pdf)
   - ViT-5: next-gen Vision Transformer modernizing ViT with RoPE, RMSNorm, QK-Norm, LayerScale, and register tokens
+
+## Generative Modeling
+
+- [2022-lipman-flow-matching-generative-modeling.pdf](2022-lipman-flow-matching-generative-modeling.pdf)
+  - Flow Matching (FM): simulation-free CNF training by regressing onto fixed conditional vector fields, with Optimal Transport probability paths (Meta AI/FAIR)
 
 ## Transformer Architectures & Attention
 
